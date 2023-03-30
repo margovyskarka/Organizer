@@ -1,0 +1,17 @@
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Release\Organizer.exe.config
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Release\Organizer.exe
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Release\Organizer.pdb
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.csprojAssemblyReference.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.Properties.Resources.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Add.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Books.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Edit.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Greeting.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_HomePage.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Movies.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_Shows.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.UI_View.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.csproj.GenerateResource.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.csproj.CoreCompileInputs.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.exe
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Release\Organizer.pdb

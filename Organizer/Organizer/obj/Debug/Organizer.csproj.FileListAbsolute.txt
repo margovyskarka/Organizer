@@ -1,0 +1,17 @@
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Add.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Books.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Edit.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Greeting.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_HomePage.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Movies.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_Shows.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.UI_View.resources
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\obj\Debug\Organizer.pdb

@@ -1,0 +1,2 @@
+Stranger things |Duffer brothers |Horror |10 | |D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Debug\Covers\stranger things.jpg
+Doctor who | |Sci-Fi |8 |Can`t wait for new seasons |D:\visual\ООП\КУРСОВАЯ\Organizer\Organizer\Organizer\bin\Debug\Covers\doctor who.jpg
